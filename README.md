@@ -68,9 +68,9 @@ A dictionary attack tests candidate passwords from a wordlist rather than trying
 
 | Stage | Screenshot |
 |---|---|
-| Hash extraction in Networkwalks Hash Calculator | ![Networkwalks PDF 1 hash extraction](screenshots/networkwalks_pdf1_hash_calculator.png) |
-| Password Cracker reports a match | ![Networkwalks PDF 1 password cracked](screenshots/networkwalks_pdf1_password_cracked.png) |
-| Internship flag / completion confirmation | ![Networkwalks PDF 1 confirmation](screenshots/networkwalks_pdf1_flag_confirmation.png) |
+| Hash extraction in Networkwalks Hash Calculator | ![Networkwalks PDF 1 hash extraction](screenshots/My-Locked-Pdf-1-hash.png) |
+| Password Cracker reports a match | ![Networkwalks PDF 1 password cracked](screenshots/My-Locked-Pdf-1-password-cracked.png) |
+| Internship flag / completion confirmation | ![Networkwalks PDF 1 confirmation](screenshots/My-Locked-Pdf-1-results.png) |
 
 ### Task B — Password recovery using John the Ripper and Johnny GUI
 
@@ -103,43 +103,43 @@ The supplied Johnny screenshots show successful recovery for the three PDF sampl
 
 **Hash extraction**
 
-![John PDF 1 hash](screenshots/john_pdf1_hash_extraction.png)
+![John PDF 1 hash](screenshots/My Locked Pdf-1-hash.png)
 
 **Johnny result**
 
-![John PDF 1 Johnny result](screenshots/john_pdf1_johnny_result.png)
+![John PDF 1 Johnny result](screenshots/My Locked Pdf-1-password-cracked.png)
 
 **Completion confirmation**
 
-![John PDF 1 confirmation](screenshots/john_pdf1_flag_confirmation.png)
+![John PDF 1 confirmation](screenshots/My Locked Pdf-1-results.png)
 
 #### John the Ripper evidence — PDF 2
 
 **Hash extraction**
 
-![John PDF 2 hash](screenshots/john_pdf2_hash_extraction.png)
+![John PDF 2 hash](screenshots/My Locked Pdf-2-hash.png)
 
 **Johnny result**
 
-![John PDF 2 Johnny result](screenshots/john_pdf2_johnny_result.png)
+![John PDF 2 Johnny result](screenshots/My Locked Pdf-2-password-cracked.png)
 
 **Completion confirmation**
 
-![John PDF 2 confirmation](screenshots/john_pdf2_flag_confirmation.png)
+![John PDF 2 confirmation](screenshots/My Locked Pdf-2-results.png)
 
 #### John the Ripper evidence — PDF 3
 
 **Hash extraction**
 
-![John PDF 3 hash](screenshots/john_pdf3_hash_extraction.png)
+![John PDF 3 hash](screenshots/My Locked Pdf-3-hash.png)
 
 **Johnny result**
 
-![John PDF 3 Johnny result](screenshots/john_pdf3_johnny_result.png)
+![John PDF 3 Johnny result](screenshots/My Locked Pdf-3-password-cracked.png)
 
 **Completion confirmation**
 
-![John PDF 3 confirmation](screenshots/john_pdf3_flag_confirmation.png)
+![John PDF 3 confirmation](screenshots/My Locked Pdf-3-result.png)
 
 ## 5. Tool Comparison
 
