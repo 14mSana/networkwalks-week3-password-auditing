@@ -181,3 +181,16 @@ Week 3 provided practical experience with password-protected PDF auditing. I ext
 All screenshots used in this report are stored in the [`screenshots/`](screenshots/) directory. The images are embedded above so they can be reviewed directly from the GitHub README.
 
 **Disclaimer:** This report documents an authorized educational exercise using internship-provided practice files. It is not an endorsement of accessing, cracking, or attempting to recover passwords from files without the owner's permission.
+
+## Author
+
+**Sanvir Kaur**
+
+Cybersecurity & Blockchain | B.Tech CSE  
+Lovely Professional University
+
+**GitHub:** [14mSana](https://github.com/14mSana)  
+**LinkedIn:** [Sanvir Kaur](https://www.linkedin.com/in/sanvir-kaur-86968739b/)  
+**TryHackMe:** [sanvir](https://tryhackme.com/p/sanvir)
+
+*Cybersecurity enthusiast passionate about ethical hacking, network security, and continuous learning.*
